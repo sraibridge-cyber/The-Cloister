@@ -1,6 +1,8 @@
 # The-Cloister
+**Sandboxed execution · Harmony Labs**
 
-Knowledge graph and research archive. Full-text search across 1,300+ documents.
+Sandboxed execution · Isolated runtime environments for untrusted code
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
